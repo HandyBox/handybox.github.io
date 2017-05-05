@@ -1,0 +1,31 @@
+body {
+	font-family: 'Roboto', sans-serif;
+	font-size: 16px;
+	color: #342115;
+}
+
+a {
+	text-decoration: none;
+	color: #342115;
+	font-weight: bold;
+	transition: 0.3s;
+}
+
+a:hover {
+	color: #9D714A;
+	transition: 0.3s;
+}
+
+.content {
+	text-align: center; 
+	margin-top: 50px;
+}
+
+.logo {
+	max-width: 424px;
+	margin: 0 auto;
+}
+
+.logo img {
+	width: 100%;
+}

@@ -1,1 +1,3 @@
 
+User-agent: Yandex
+Host: https://handybox.github.io

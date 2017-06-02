@@ -34,13 +34,15 @@ a:hover {
 }
 
 .highlight{
-	background-color: #333;
+    background-color: #333;
     color: white;
+    font-weight: normal;
 }
 
 .highlight-link{
-	background-color: #9D714A;
+    background-color: #9D714A;
     color: white;
+    font-weight: normal;
 }
 
 img{
